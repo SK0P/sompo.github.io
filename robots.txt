@@ -1,1 +1,2 @@
-disallow: /top-secret.txt
+user-agent: *
+allow: /top-secret.txt

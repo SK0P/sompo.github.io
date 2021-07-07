@@ -1,5 +1,5 @@
 // set the date we're counting down to
-var target_date = new Date("July 7, 2021 08:00:00").getTime();
+var target_date = new Date("July 22, 2021 18:00:00").getTime();
 
 var Clock = (function(){  
   var exports = function(element) {

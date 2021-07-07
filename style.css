@@ -91,3 +91,24 @@ body {
   display: inline-block;
   width: 100px;
 }
+
+.logo {
+  font: 300 20px/1 "Lato", sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  width: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -175px;
+  margin-top: 70px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.logo .info {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+}

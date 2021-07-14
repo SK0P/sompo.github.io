@@ -96,10 +96,10 @@ body {
   font: 300 20px/1 "Lato", sans-serif;
   font-variant: small-caps;
   text-align: center;
-  width: 350px;
+  width: 250px;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 52%;
   margin-left: -175px;
   margin-top: 70px;
   -webkit-user-select: none;
